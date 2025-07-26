@@ -54,8 +54,8 @@ const Contact = () => {
       icon: MapPin,
       title: 'Head Office',
       details: [
-        'Industrial Area, Sector 45',
-        'Gurgaon, Haryana 122003',
+        'C-20, Industrial Area, Bulandshahar Road',
+        'Ghaziabad, Uttar Pradesh 201009',
         'India'
       ]
     },
@@ -350,7 +350,7 @@ const Contact = () => {
                     <Phone className="w-6 h-6 text-red-600 mr-4" />
                     <div>
                       <p className="font-semibold text-gray-900">Call Now</p>
-                      <p className="text-sm text-gray-600">+91 124 456 7890</p>
+                      <p className="text-sm text-gray-600">+91 9871057278</p>
                     </div>
                   </a>
                   
@@ -372,7 +372,7 @@ const Contact = () => {
                     <MessageCircle className="w-6 h-6 text-green-600 mr-4" />
                     <div>
                       <p className="font-semibold text-gray-900">WhatsApp</p>
-                      <p className="text-sm text-gray-600">+91 98765 43210</p>
+                      <p className="text-sm text-gray-600">+91 9871057278</p>
                     </div>
                   </a>
                   

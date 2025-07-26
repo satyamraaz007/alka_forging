@@ -70,14 +70,14 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="w-5 h-5 text-red-500 mt-0.5 flex-shrink-0" />
                 <p className="text-gray-300 text-sm">
-                  Industrial Area, Sector 45<br />
-                  Gurgaon, Haryana 122003<br />
+                  C-20, Industrial Area, Bulandshahar Road<br />
+                  Ghaziabad, Uttar Pradesh 201009<br />
                   India
                 </p>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-red-500 flex-shrink-0" />
-                <p className="text-gray-300 text-sm">+91 124 456 7890</p>
+                <p className="text-gray-300 text-sm">+91 9871057278</p>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-red-500 flex-shrink-0" />
